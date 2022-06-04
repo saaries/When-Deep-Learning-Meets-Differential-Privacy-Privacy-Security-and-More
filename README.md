@@ -7,5 +7,5 @@ Original link:
 > https://ieeexplore.ieee.org/document/9687525
 
 Attempts:
-This work will show you the recent and the future trend about applying differential privacy into deep learning.
+> This work will show you the recent and the future trend about applying differential privacy into deep learning.
 
