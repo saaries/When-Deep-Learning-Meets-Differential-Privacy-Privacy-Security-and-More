@@ -8,6 +8,4 @@ Original link:
 
 Attempts:
 This work will show you the recent and the future trend about applying differential privacy into deep learning.
-<img width="1304" alt="img" src="https://user-images.githubusercontent.com/28039673/171973490-c19354ba-8a4f-4827-ba4f-a6a6ed9d5dd0.png">
-
 
